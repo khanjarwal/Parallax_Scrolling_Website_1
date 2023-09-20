@@ -1,2 +1,3 @@
 # Parallax_Scrolling_Website_1
-My Parallax scrolling landpage project
+https://khanjarwal.github.io/Parallax_Scrolling_Website_1/
+My Parallax scrolling land page project
